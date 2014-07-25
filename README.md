@@ -8,17 +8,18 @@ DNA Layout
 
 Lays items like so:
 
-[ BIG ONE ]
-[ SMALL][ SMALL ]
-[ SMALL][ SMALL ]
-[ BIG ONE ]
 
-[ BIG ONE ]
-[ SMALL][ SMALL ]
-[ SMALL][ SMALL ]
-[ BIG ONE ]
+    [ BIG ONE ]
+    [ SMALL][ SMALL ]
+    [ SMALL][ SMALL ]
+    [ BIG ONE ]
 
-[ BIG ONE ]
-[ SMALL][ SMALL ]
-[ SMALL][ SMALL ]
-[ BIG ONE ]
+    [ BIG ONE ]
+    [ SMALL][ SMALL ]
+    [ SMALL][ SMALL ]
+    [ BIG ONE ]
+
+    [ BIG ONE ]
+    [ SMALL][ SMALL ]
+    [ SMALL][ SMALL ]
+    [ BIG ONE ]
